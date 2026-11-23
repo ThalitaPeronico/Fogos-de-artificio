@@ -1,2 +1,2 @@
-# Fogos-de-artif-cio
+# Fogos-de-artificio
 Animação simples de fogos de artifício em java.
